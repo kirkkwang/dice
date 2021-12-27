@@ -1,0 +1,26 @@
+/* hides scrollbar completely */
+
+/* ::-webkit-scrollbar {
+  width: 0px;
+} */
+
+.Header3 {
+  position: relative;
+  bottom: 1em;
+  margin-bottom: 0.5em;
+}
+.RollResults {
+  display: grid;
+  height: 175px;
+  max-height: 175px;
+  overflow: hidden;
+  position: relative;
+  bottom: 1.7em;
+  display: grid;
+  justify-content: left;
+}
+
+.RollResults__Log {
+  width: 9em;
+  overflow-y: auto;
+}

@@ -1,0 +1,12 @@
+.ResetLog {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  border-color: black;
+  border-radius: 5px;
+  font-size: 1em;
+  outline: none;
+}
+.ResetLog:active {
+  filter: brightness(1.25);
+}

@@ -1,0 +1,25 @@
+.Dice {
+  display: grid;
+  justify-content: right;
+}
+
+.Dice__Square {
+  width: 200px;
+  height: 200px;
+  border-width: 5px;
+  border-color: black;
+  border-radius: 18px;
+  font-size: 8em;
+  outline: none;
+  transition: 300ms;
+}
+.Dice__Square:active {
+  border-style: outset;
+  /* opacity: 50%; */
+}
+
+.Header2 {
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}

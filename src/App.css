@@ -1,0 +1,13 @@
+p {
+  margin: 0.25em;
+}
+
+.Header {
+  text-align: center;
+}
+
+.App__DiceAndRoll {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3em;
+}
