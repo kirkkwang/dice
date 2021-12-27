@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dice/static/css/main.a5ab3fc3.css",
+    "main.js": "/dice/static/js/main.6ccdda7b.js",
+    "static/js/787.eb5a12db.chunk.js": "/dice/static/js/787.eb5a12db.chunk.js",
+    "static/media/dice-six-faces-six.svg": "/dice/static/media/dice-six-faces-six.4aea6b4cc78796f7288f31c4aae244f7.svg",
+    "static/media/dice-six-faces-five.svg": "/dice/static/media/dice-six-faces-five.651389b530931f7c757c733bf2c8958b.svg",
+    "static/media/dice-six-faces-four.svg": "/dice/static/media/dice-six-faces-four.d6408216a73cd62e3b51bd556d2efb5c.svg",
+    "index.html": "/dice/index.html",
+    "static/media/dice-six-faces-three.svg": "/dice/static/media/dice-six-faces-three.5a44678d6cb71e9e7628f06fe0bed381.svg",
+    "static/media/dice-six-faces-two.svg": "/dice/static/media/dice-six-faces-two.f317bca518c4ae25f77129632000e910.svg",
+    "static/media/dice-six-faces-one.svg": "/dice/static/media/dice-six-faces-one.bd1d1c4d5654f44ac8a8b1be4bc9f28f.svg",
+    "main.a5ab3fc3.css.map": "/dice/static/css/main.a5ab3fc3.css.map",
+    "main.6ccdda7b.js.map": "/dice/static/js/main.6ccdda7b.js.map",
+    "787.eb5a12db.chunk.js.map": "/dice/static/js/787.eb5a12db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5ab3fc3.css",
+    "static/js/main.6ccdda7b.js"
+  ]
+}
